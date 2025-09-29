@@ -1,0 +1,2 @@
+# This file ensures the dist directory is tracked by git
+# Directory for pipeline output artifacts (reports, intermediate JSON, final packaged data)

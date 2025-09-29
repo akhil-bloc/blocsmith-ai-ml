@@ -1,0 +1,2 @@
+# This file ensures the schemas directory is tracked by git
+# Directory for JSON schema files (both pre_split and final schema)
