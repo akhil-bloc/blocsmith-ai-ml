@@ -1,0 +1,183 @@
+---
+# Wording banks for generating diverse text content
+vision_statements:
+  - "Create a user-friendly application that solves real problems"
+  - "Build an intuitive platform that enhances user productivity"
+  - "Develop a responsive solution that meets modern needs"
+  - "Design a seamless experience that delights users"
+  - "Craft an elegant interface that simplifies complex tasks"
+  - "Establish a reliable service that users can depend on"
+  - "Construct a scalable system that grows with user needs"
+  - "Deliver a polished product that exceeds expectations"
+  - "Engineer a robust solution that stands the test of time"
+  - "Provide a valuable tool that improves daily workflows"
+
+tech_stack_intros:
+  - "This application will be built using the following technologies:"
+  - "The technical foundation of this project consists of:"
+  - "We will leverage these technologies to build our solution:"
+  - "Our technology stack is composed of the following components:"
+  - "The application architecture will utilize these technologies:"
+  - "We've selected the following technologies for this project:"
+  - "Our development approach will incorporate these key technologies:"
+  - "The technical implementation will be based on:"
+  - "For this project, we'll employ the following tech stack:"
+  - "The technology foundation for this application includes:"
+
+data_model_intros:
+  - "The application will store and manage the following data entities:"
+  - "Our data architecture consists of these primary models:"
+  - "The core data structures for this application include:"
+  - "We'll organize our application data using these models:"
+  - "The following data models form the foundation of our application:"
+  - "Our database schema will be structured around these entities:"
+  - "The application's data layer will be composed of:"
+  - "These data models represent the key entities in our system:"
+  - "Our data architecture is built around these core models:"
+  - "The application will maintain the following data structures:"
+
+routes_intros:
+  - "The application will include the following pages and routes:"
+  - "Users will navigate through these key pages and routes:"
+  - "The application structure consists of these pages and paths:"
+  - "Our routing architecture includes the following pages:"
+  - "The user journey will flow through these main pages:"
+  - "The application interface is organized into these routes:"
+  - "Navigation within the application will include these pages:"
+  - "The site map consists of these essential pages and routes:"
+  - "Users will interact with the application through these pages:"
+  - "The application's navigation structure includes:"
+
+feature_plan_intros:
+  - "The application will provide the following key features:"
+  - "Users will benefit from these core capabilities:"
+  - "Our feature set includes the following functionality:"
+  - "The application will deliver these essential features:"
+  - "We'll implement the following features to meet user needs:"
+  - "The core functionality of this application includes:"
+  - "Users can expect the following features and capabilities:"
+  - "Our implementation plan focuses on these key features:"
+  - "The application will offer these primary features:"
+  - "We've prioritized the following features for development:"
+
+nfr_intros:
+  - "Beyond functional requirements, the application will meet these non-functional requirements:"
+  - "To ensure quality, we'll adhere to these non-functional requirements and service level objectives:"
+  - "The application will maintain these quality standards and service levels:"
+  - "Our non-functional requirements and service level objectives include:"
+  - "We'll ensure the application meets these technical quality standards:"
+  - "The following non-functional requirements will guide our implementation:"
+  - "To deliver a robust experience, we'll meet these service levels:"
+  - "Our quality assurance approach will focus on these requirements:"
+  - "The application will be measured against these performance standards:"
+  - "We commit to these non-functional requirements and service levels:"
+
+padding_sentences:
+  short:
+    - "This approach ensures a streamlined user experience."
+    - "We prioritize simplicity and ease of use."
+    - "The design focuses on core functionality."
+    - "This creates a foundation for future enhancements."
+    - "Users will appreciate the intuitive design."
+    - "The implementation balances functionality and simplicity."
+    - "This meets the essential needs of our target users."
+    - "We emphasize quality over quantity in features."
+    - "The solution addresses key pain points directly."
+    - "This approach delivers maximum value with minimal complexity."
+  
+  extended:
+    - "By implementing this comprehensive approach, we ensure that users of all technical backgrounds can easily navigate and utilize the full capabilities of the application without requiring extensive training or documentation."
+    - "This robust implementation strategy not only addresses current requirements but also establishes a flexible foundation that can accommodate future enhancements and evolving user needs without requiring significant architectural changes."
+    - "Our carefully considered design philosophy balances powerful functionality with intuitive user experience, ensuring that complex operations remain accessible while still providing the depth and customization that advanced users expect."
+    - "Through thoughtful integration of these components, we create a cohesive ecosystem where data flows seamlessly between different parts of the application, minimizing friction points and maximizing productivity for all stakeholders."
+    - "This holistic approach to application design considers not just the technical implementation but also the broader context of user workflows, ensuring that the solution integrates naturally into existing processes rather than forcing users to adapt to the technology."
+    - "By prioritizing both performance and usability in equal measure, we deliver an application that responds quickly to user interactions while maintaining an interface that guides users intuitively through even complex multi-step processes."
+    - "The architecture's modular design allows for independent scaling of different components, ensuring that resources are allocated efficiently based on actual usage patterns rather than overprovisioning across the entire system."
+    - "Our implementation strategy emphasizes progressive enhancement, ensuring that core functionality remains accessible across all supported environments while more advanced features gracefully adapt based on available capabilities."
+    - "This comprehensive solution addresses not only the explicit requirements but also anticipates common edge cases and failure modes, building in appropriate fallback mechanisms and recovery paths to maintain system integrity under unexpected conditions."
+    - "By adopting industry best practices throughout the development process, we ensure that the resulting application not only meets current needs but remains maintainable and extensible as requirements evolve over time."
+
+tech_options:
+  frontend:
+    - "React with Material UI for component-based UI development"
+    - "Vue.js with Vuetify for reactive user interfaces"
+    - "Angular with NgBootstrap for enterprise-grade applications"
+    - "Svelte with TailwindCSS for efficient rendering"
+    - "Next.js for server-side rendering and static generation"
+    - "Nuxt.js for Vue-based universal applications"
+    - "Alpine.js and Tailwind for lightweight interactivity"
+    - "Preact for React-compatible lightweight applications"
+    - "Lit for web components and lightweight applications"
+    - "Solid.js for high-performance reactive UIs"
+  
+  backend:
+    - "Node.js with Express for API development"
+    - "Django for a full-featured Python backend"
+    - "Flask for lightweight Python APIs"
+    - "Ruby on Rails for rapid development"
+    - "Spring Boot for Java enterprise applications"
+    - "FastAPI for high-performance Python APIs"
+    - "NestJS for structured Node.js applications"
+    - "Laravel for PHP web applications"
+    - "ASP.NET Core for .NET-based services"
+    - "Gin for Go web applications"
+  
+  database:
+    - "PostgreSQL for relational data storage"
+    - "MongoDB for document-based NoSQL storage"
+    - "MySQL for traditional relational databases"
+    - "Redis for in-memory caching and data structures"
+    - "SQLite for embedded database solutions"
+    - "Firestore for serverless document databases"
+    - "DynamoDB for scalable NoSQL storage"
+    - "Cassandra for distributed NoSQL databases"
+    - "Elasticsearch for search and analytics"
+    - "Supabase for Firebase-like functionality"
+  
+  deployment:
+    - "Docker containers for consistent environments"
+    - "Kubernetes for container orchestration"
+    - "Vercel for frontend and serverless deployment"
+    - "Netlify for static site hosting and serverless functions"
+    - "AWS Elastic Beanstalk for managed deployments"
+    - "Heroku for simplified application hosting"
+    - "Google Cloud Run for containerized applications"
+    - "Azure App Service for managed hosting"
+    - "Digital Ocean App Platform for simplified deployment"
+    - "Fly.io for global application deployment"
+
+nfr_categories:
+  performance:
+    - "Page load times under 2 seconds for primary routes"
+    - "API response times under 200ms for 95% of requests"
+    - "Support for at least 100 concurrent users"
+    - "Efficient resource utilization with minimal memory footprint"
+    - "Optimized asset delivery with proper caching strategies"
+  
+  security:
+    - "HTTPS encryption for all communications"
+    - "Secure authentication with industry-standard practices"
+    - "Protection against common vulnerabilities (XSS, CSRF, SQL injection)"
+    - "Regular security audits and dependency updates"
+    - "Proper data encryption for sensitive information"
+  
+  reliability:
+    - "99.9% uptime for core functionality"
+    - "Graceful error handling and user feedback"
+    - "Comprehensive logging for troubleshooting"
+    - "Automated backup and recovery procedures"
+    - "Resilience to network instability and service disruptions"
+  
+  usability:
+    - "Responsive design supporting mobile and desktop devices"
+    - "Accessibility compliance with WCAG 2.1 AA standards"
+    - "Consistent UI patterns across the application"
+    - "Intuitive navigation with clear user feedback"
+    - "Support for keyboard navigation and screen readers"
+  
+  maintainability:
+    - "Comprehensive test coverage for critical paths"
+    - "Clear code organization and documentation"
+    - "Automated CI/CD pipeline for reliable deployments"
+    - "Monitoring and alerting for system health"
+    - "Scalable architecture that supports future growth"

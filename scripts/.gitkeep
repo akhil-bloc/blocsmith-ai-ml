@@ -1,2 +1,0 @@
-# This file ensures the scripts directory is tracked by git
-# Directory for all pipeline stage scripts (intake, expand, write, validate, dedup, top_up, diversity, bands, split, package, lockcheck)

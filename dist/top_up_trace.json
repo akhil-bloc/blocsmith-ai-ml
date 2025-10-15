@@ -1,0 +1,242 @@
+[
+  {
+    "message": "Need to regenerate 3 items",
+    "reason": "pool_empty",
+    "stratum": "blog-Pro-en"
+  },
+  {
+    "message": "Need to regenerate 3 items",
+    "reason": "pool_empty",
+    "stratum": "chat-Pro-en"
+  },
+  {
+    "message": "Need to regenerate 3 items",
+    "reason": "pool_empty",
+    "stratum": "notes-Pro-en"
+  },
+  {
+    "message": "Need to regenerate 3 items",
+    "reason": "pool_empty",
+    "stratum": "dashboard-Pro-en"
+  },
+  {
+    "message": "Need to regenerate 3 items",
+    "reason": "pool_empty",
+    "stratum": "store-Pro-en"
+  },
+  {
+    "message": "Need to regenerate 3 items",
+    "reason": "pool_empty",
+    "stratum": "gallery-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_blogProen_replit_rep01_seq001__v01",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "blog-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_blogProen_replit_rep01_seq001__v02",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "blog-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_blogProen_replit_rep01_seq001__v03",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "blog-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_blogProen_replit_rep01_seq001__v04",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "blog-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_blogProen_replit_rep01_seq001__v05",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "blog-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_chatProen_replit_rep01_seq001__v01",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "chat-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_chatProen_replit_rep01_seq001__v02",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "chat-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_chatProen_replit_rep01_seq001__v03",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "chat-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_chatProen_replit_rep01_seq001__v04",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "chat-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_chatProen_replit_rep01_seq001__v05",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "chat-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_notesProen_replit_rep01_seq001__v01",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "notes-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_notesProen_replit_rep01_seq001__v02",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "notes-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_notesProen_replit_rep01_seq001__v03",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "notes-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_notesProen_replit_rep01_seq001__v04",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "notes-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_notesProen_replit_rep01_seq001__v05",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "notes-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_dashboardProen_replit_rep01_seq001__v01",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "dashboard-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_dashboardProen_replit_rep01_seq001__v02",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "dashboard-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_dashboardProen_replit_rep01_seq001__v03",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "dashboard-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_dashboardProen_replit_rep01_seq001__v04",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "dashboard-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_dashboardProen_replit_rep01_seq001__v05",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "dashboard-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_storeProen_replit_rep01_seq001__v01",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "store-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_storeProen_replit_rep01_seq001__v02",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "store-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_storeProen_replit_rep01_seq001__v03",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "store-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_storeProen_replit_rep01_seq001__v04",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "store-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_storeProen_replit_rep01_seq001__v05",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "store-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_galleryProen_replit_rep01_seq001__v01",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "gallery-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_galleryProen_replit_rep01_seq001__v02",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "gallery-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_galleryProen_replit_rep01_seq001__v03",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "gallery-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_galleryProen_replit_rep01_seq001__v04",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "gallery-Pro-en"
+  },
+  {
+    "attempt": 1,
+    "candidate_id": "golden_galleryProen_replit_rep01_seq001__v05",
+    "reason": "regenerated",
+    "selected": true,
+    "stratum": "gallery-Pro-en"
+  }
+]

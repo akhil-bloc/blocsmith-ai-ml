@@ -1,8 +1,99 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Golden Final Schema",
-  "description": "Schema for final golden dataset after processing",
+  "title": "Golden Set Final Schema",
+  "description": "Schema for validating golden set items after splitting into train/val/test",
   "type": "object",
-  "properties": {},
-  "additionalProperties": true
+  "required": [
+    "id",
+    "slot_id",
+    "source_candidate_id",
+    "archetype",
+    "complexity",
+    "locale",
+    "rep",
+    "seq",
+    "length_band",
+    "platform",
+    "split",
+    "spec"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Item identifier, must be equal to slot_id",
+      "pattern": "^golden_[a-z]+(MVP|Pro)en_replit_rep\\d{2}_seq\\d{3}$"
+    },
+    "slot_id": {
+      "type": "string",
+      "description": "Stable identity in the format golden_{archetype}{complexity}{locale}_{platform}_rep{rep:02d}_seq{seq:03d}",
+      "pattern": "^golden_[a-z]+(MVP|Pro)en_replit_rep\\d{2}_seq\\d{3}$"
+    },
+    "source_candidate_id": {
+      "type": "string",
+      "description": "Original candidate identifier of the chosen draft",
+      "pattern": "^golden_[a-z]+(MVP|Pro)en_replit_rep\\d{2}_seq\\d{3}__v\\d{2}$"
+    },
+    "archetype": {
+      "type": "string",
+      "description": "Application archetype",
+      "enum": ["blog", "guestbook", "chat", "notes", "dashboard", "store", "gallery"]
+    },
+    "complexity": {
+      "type": "string",
+      "description": "Application complexity level",
+      "enum": ["MVP", "Pro"]
+    },
+    "locale": {
+      "type": "string",
+      "description": "Locale code",
+      "enum": ["en"]
+    },
+    "rep": {
+      "type": "integer",
+      "description": "Repetition number within stratum",
+      "minimum": 1,
+      "maximum": 10
+    },
+    "seq": {
+      "type": "integer",
+      "description": "Sequence number across all strata",
+      "minimum": 1,
+      "maximum": 200
+    },
+    "length_band": {
+      "type": "string",
+      "description": "Length category of the spec",
+      "enum": ["SHORT", "STANDARD", "EXTENDED"]
+    },
+    "platform": {
+      "type": "object",
+      "required": ["name", "server", "bind"],
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "type": "string",
+          "enum": ["replit"]
+        },
+        "server": {
+          "type": "boolean",
+          "description": "Whether the application requires a server"
+        },
+        "bind": {
+          "type": ["string", "null"],
+          "description": "IP binding address if server is true, null otherwise",
+          "pattern": "^0\\.0\\.0\\.0$|^null$"
+        }
+      }
+    },
+    "split": {
+      "type": "string",
+      "description": "Dataset split assignment",
+      "enum": ["train", "val", "test"]
+    },
+    "spec": {
+      "type": "string",
+      "description": "The specification text containing exactly six H2 sections: Vision, Tech Stack, Data Models, Pages & Routes, Feature Plan, NFR & SLOs. Feature Plan must include an ACL block with at least two roles and explicit permissions."
+    }
+  }
 }

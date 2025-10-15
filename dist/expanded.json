@@ -1,0 +1,632 @@
+[
+  {
+    "archetype": "blog",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 1,
+    "seq": 1,
+    "slot_id": "golden_blogMVPen_replit_rep01_seq001"
+  },
+  {
+    "archetype": "blog",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 2,
+    "seq": 2,
+    "slot_id": "golden_blogMVPen_replit_rep02_seq002"
+  },
+  {
+    "archetype": "blog",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 3,
+    "seq": 3,
+    "slot_id": "golden_blogMVPen_replit_rep03_seq003"
+  },
+  {
+    "archetype": "blog",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 4,
+    "seq": 4,
+    "slot_id": "golden_blogMVPen_replit_rep04_seq004"
+  },
+  {
+    "archetype": "blog",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 5,
+    "seq": 5,
+    "slot_id": "golden_blogMVPen_replit_rep05_seq005"
+  },
+  {
+    "archetype": "blog",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 1,
+    "seq": 6,
+    "slot_id": "golden_blogProen_replit_rep01_seq006"
+  },
+  {
+    "archetype": "blog",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 2,
+    "seq": 7,
+    "slot_id": "golden_blogProen_replit_rep02_seq007"
+  },
+  {
+    "archetype": "blog",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 3,
+    "seq": 8,
+    "slot_id": "golden_blogProen_replit_rep03_seq008"
+  },
+  {
+    "archetype": "blog",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 4,
+    "seq": 9,
+    "slot_id": "golden_blogProen_replit_rep04_seq009"
+  },
+  {
+    "archetype": "blog",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 5,
+    "seq": 10,
+    "slot_id": "golden_blogProen_replit_rep05_seq010"
+  },
+  {
+    "archetype": "guestbook",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 1,
+    "seq": 11,
+    "slot_id": "golden_guestbookMVPen_replit_rep01_seq011"
+  },
+  {
+    "archetype": "guestbook",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 2,
+    "seq": 12,
+    "slot_id": "golden_guestbookMVPen_replit_rep02_seq012"
+  },
+  {
+    "archetype": "guestbook",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 3,
+    "seq": 13,
+    "slot_id": "golden_guestbookMVPen_replit_rep03_seq013"
+  },
+  {
+    "archetype": "guestbook",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 4,
+    "seq": 14,
+    "slot_id": "golden_guestbookMVPen_replit_rep04_seq014"
+  },
+  {
+    "archetype": "guestbook",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 5,
+    "seq": 15,
+    "slot_id": "golden_guestbookMVPen_replit_rep05_seq015"
+  },
+  {
+    "archetype": "guestbook",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 1,
+    "seq": 16,
+    "slot_id": "golden_guestbookProen_replit_rep01_seq016"
+  },
+  {
+    "archetype": "guestbook",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 2,
+    "seq": 17,
+    "slot_id": "golden_guestbookProen_replit_rep02_seq017"
+  },
+  {
+    "archetype": "guestbook",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 3,
+    "seq": 18,
+    "slot_id": "golden_guestbookProen_replit_rep03_seq018"
+  },
+  {
+    "archetype": "guestbook",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 4,
+    "seq": 19,
+    "slot_id": "golden_guestbookProen_replit_rep04_seq019"
+  },
+  {
+    "archetype": "guestbook",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 5,
+    "seq": 20,
+    "slot_id": "golden_guestbookProen_replit_rep05_seq020"
+  },
+  {
+    "archetype": "chat",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 1,
+    "seq": 21,
+    "slot_id": "golden_chatMVPen_replit_rep01_seq021"
+  },
+  {
+    "archetype": "chat",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 2,
+    "seq": 22,
+    "slot_id": "golden_chatMVPen_replit_rep02_seq022"
+  },
+  {
+    "archetype": "chat",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 3,
+    "seq": 23,
+    "slot_id": "golden_chatMVPen_replit_rep03_seq023"
+  },
+  {
+    "archetype": "chat",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 4,
+    "seq": 24,
+    "slot_id": "golden_chatMVPen_replit_rep04_seq024"
+  },
+  {
+    "archetype": "chat",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 5,
+    "seq": 25,
+    "slot_id": "golden_chatMVPen_replit_rep05_seq025"
+  },
+  {
+    "archetype": "chat",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 1,
+    "seq": 26,
+    "slot_id": "golden_chatProen_replit_rep01_seq026"
+  },
+  {
+    "archetype": "chat",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 2,
+    "seq": 27,
+    "slot_id": "golden_chatProen_replit_rep02_seq027"
+  },
+  {
+    "archetype": "chat",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 3,
+    "seq": 28,
+    "slot_id": "golden_chatProen_replit_rep03_seq028"
+  },
+  {
+    "archetype": "chat",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 4,
+    "seq": 29,
+    "slot_id": "golden_chatProen_replit_rep04_seq029"
+  },
+  {
+    "archetype": "chat",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 5,
+    "seq": 30,
+    "slot_id": "golden_chatProen_replit_rep05_seq030"
+  },
+  {
+    "archetype": "notes",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 1,
+    "seq": 31,
+    "slot_id": "golden_notesMVPen_replit_rep01_seq031"
+  },
+  {
+    "archetype": "notes",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 2,
+    "seq": 32,
+    "slot_id": "golden_notesMVPen_replit_rep02_seq032"
+  },
+  {
+    "archetype": "notes",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 3,
+    "seq": 33,
+    "slot_id": "golden_notesMVPen_replit_rep03_seq033"
+  },
+  {
+    "archetype": "notes",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 4,
+    "seq": 34,
+    "slot_id": "golden_notesMVPen_replit_rep04_seq034"
+  },
+  {
+    "archetype": "notes",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 5,
+    "seq": 35,
+    "slot_id": "golden_notesMVPen_replit_rep05_seq035"
+  },
+  {
+    "archetype": "notes",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 1,
+    "seq": 36,
+    "slot_id": "golden_notesProen_replit_rep01_seq036"
+  },
+  {
+    "archetype": "notes",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 2,
+    "seq": 37,
+    "slot_id": "golden_notesProen_replit_rep02_seq037"
+  },
+  {
+    "archetype": "notes",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 3,
+    "seq": 38,
+    "slot_id": "golden_notesProen_replit_rep03_seq038"
+  },
+  {
+    "archetype": "notes",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 4,
+    "seq": 39,
+    "slot_id": "golden_notesProen_replit_rep04_seq039"
+  },
+  {
+    "archetype": "notes",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 5,
+    "seq": 40,
+    "slot_id": "golden_notesProen_replit_rep05_seq040"
+  },
+  {
+    "archetype": "dashboard",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 1,
+    "seq": 41,
+    "slot_id": "golden_dashboardMVPen_replit_rep01_seq041"
+  },
+  {
+    "archetype": "dashboard",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 2,
+    "seq": 42,
+    "slot_id": "golden_dashboardMVPen_replit_rep02_seq042"
+  },
+  {
+    "archetype": "dashboard",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 3,
+    "seq": 43,
+    "slot_id": "golden_dashboardMVPen_replit_rep03_seq043"
+  },
+  {
+    "archetype": "dashboard",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 4,
+    "seq": 44,
+    "slot_id": "golden_dashboardMVPen_replit_rep04_seq044"
+  },
+  {
+    "archetype": "dashboard",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 5,
+    "seq": 45,
+    "slot_id": "golden_dashboardMVPen_replit_rep05_seq045"
+  },
+  {
+    "archetype": "dashboard",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 1,
+    "seq": 46,
+    "slot_id": "golden_dashboardProen_replit_rep01_seq046"
+  },
+  {
+    "archetype": "dashboard",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 2,
+    "seq": 47,
+    "slot_id": "golden_dashboardProen_replit_rep02_seq047"
+  },
+  {
+    "archetype": "dashboard",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 3,
+    "seq": 48,
+    "slot_id": "golden_dashboardProen_replit_rep03_seq048"
+  },
+  {
+    "archetype": "dashboard",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 4,
+    "seq": 49,
+    "slot_id": "golden_dashboardProen_replit_rep04_seq049"
+  },
+  {
+    "archetype": "dashboard",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 5,
+    "seq": 50,
+    "slot_id": "golden_dashboardProen_replit_rep05_seq050"
+  },
+  {
+    "archetype": "store",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 1,
+    "seq": 51,
+    "slot_id": "golden_storeMVPen_replit_rep01_seq051"
+  },
+  {
+    "archetype": "store",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 2,
+    "seq": 52,
+    "slot_id": "golden_storeMVPen_replit_rep02_seq052"
+  },
+  {
+    "archetype": "store",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 3,
+    "seq": 53,
+    "slot_id": "golden_storeMVPen_replit_rep03_seq053"
+  },
+  {
+    "archetype": "store",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 4,
+    "seq": 54,
+    "slot_id": "golden_storeMVPen_replit_rep04_seq054"
+  },
+  {
+    "archetype": "store",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 5,
+    "seq": 55,
+    "slot_id": "golden_storeMVPen_replit_rep05_seq055"
+  },
+  {
+    "archetype": "store",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 1,
+    "seq": 56,
+    "slot_id": "golden_storeProen_replit_rep01_seq056"
+  },
+  {
+    "archetype": "store",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 2,
+    "seq": 57,
+    "slot_id": "golden_storeProen_replit_rep02_seq057"
+  },
+  {
+    "archetype": "store",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 3,
+    "seq": 58,
+    "slot_id": "golden_storeProen_replit_rep03_seq058"
+  },
+  {
+    "archetype": "store",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 4,
+    "seq": 59,
+    "slot_id": "golden_storeProen_replit_rep04_seq059"
+  },
+  {
+    "archetype": "store",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 5,
+    "seq": 60,
+    "slot_id": "golden_storeProen_replit_rep05_seq060"
+  },
+  {
+    "archetype": "gallery",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 1,
+    "seq": 61,
+    "slot_id": "golden_galleryMVPen_replit_rep01_seq061"
+  },
+  {
+    "archetype": "gallery",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 2,
+    "seq": 62,
+    "slot_id": "golden_galleryMVPen_replit_rep02_seq062"
+  },
+  {
+    "archetype": "gallery",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 3,
+    "seq": 63,
+    "slot_id": "golden_galleryMVPen_replit_rep03_seq063"
+  },
+  {
+    "archetype": "gallery",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 4,
+    "seq": 64,
+    "slot_id": "golden_galleryMVPen_replit_rep04_seq064"
+  },
+  {
+    "archetype": "gallery",
+    "complexity": "MVP",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 5,
+    "seq": 65,
+    "slot_id": "golden_galleryMVPen_replit_rep05_seq065"
+  },
+  {
+    "archetype": "gallery",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 1,
+    "seq": 66,
+    "slot_id": "golden_galleryProen_replit_rep01_seq066"
+  },
+  {
+    "archetype": "gallery",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 2,
+    "seq": 67,
+    "slot_id": "golden_galleryProen_replit_rep02_seq067"
+  },
+  {
+    "archetype": "gallery",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 3,
+    "seq": 68,
+    "slot_id": "golden_galleryProen_replit_rep03_seq068"
+  },
+  {
+    "archetype": "gallery",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 4,
+    "seq": 69,
+    "slot_id": "golden_galleryProen_replit_rep04_seq069"
+  },
+  {
+    "archetype": "gallery",
+    "complexity": "Pro",
+    "locale": "en",
+    "platform": "replit",
+    "rep": 5,
+    "seq": 70,
+    "slot_id": "golden_galleryProen_replit_rep05_seq070"
+  }
+]

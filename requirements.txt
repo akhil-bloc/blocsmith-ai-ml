@@ -1,0 +1,15 @@
+click==8.1.7
+langid==1.1.6
+regex==2024.7.24
+numpy==1.26.4
+scipy==1.11.4
+scikit-learn==1.4.2
+datasketch==1.6.5
+beautifulsoup4==4.12.3
+lxml==5.1.0
+tqdm==4.66.4
+xxhash==3.4.1
+python-slugify==8.0.4
+orjson==3.10.7
+jsonschema==4.21.1
+pyyaml==6.0.1

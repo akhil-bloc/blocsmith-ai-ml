@@ -1,0 +1,100 @@
+[
+  {
+    "archetype": "blog",
+    "complexity": "MVP",
+    "count": 5,
+    "locale": "en",
+    "platform": "replit"
+  },
+  {
+    "archetype": "blog",
+    "complexity": "Pro",
+    "count": 5,
+    "locale": "en",
+    "platform": "replit"
+  },
+  {
+    "archetype": "guestbook",
+    "complexity": "MVP",
+    "count": 5,
+    "locale": "en",
+    "platform": "replit"
+  },
+  {
+    "archetype": "guestbook",
+    "complexity": "Pro",
+    "count": 5,
+    "locale": "en",
+    "platform": "replit"
+  },
+  {
+    "archetype": "chat",
+    "complexity": "MVP",
+    "count": 5,
+    "locale": "en",
+    "platform": "replit"
+  },
+  {
+    "archetype": "chat",
+    "complexity": "Pro",
+    "count": 5,
+    "locale": "en",
+    "platform": "replit"
+  },
+  {
+    "archetype": "notes",
+    "complexity": "MVP",
+    "count": 5,
+    "locale": "en",
+    "platform": "replit"
+  },
+  {
+    "archetype": "notes",
+    "complexity": "Pro",
+    "count": 5,
+    "locale": "en",
+    "platform": "replit"
+  },
+  {
+    "archetype": "dashboard",
+    "complexity": "MVP",
+    "count": 5,
+    "locale": "en",
+    "platform": "replit"
+  },
+  {
+    "archetype": "dashboard",
+    "complexity": "Pro",
+    "count": 5,
+    "locale": "en",
+    "platform": "replit"
+  },
+  {
+    "archetype": "store",
+    "complexity": "MVP",
+    "count": 5,
+    "locale": "en",
+    "platform": "replit"
+  },
+  {
+    "archetype": "store",
+    "complexity": "Pro",
+    "count": 5,
+    "locale": "en",
+    "platform": "replit"
+  },
+  {
+    "archetype": "gallery",
+    "complexity": "MVP",
+    "count": 5,
+    "locale": "en",
+    "platform": "replit"
+  },
+  {
+    "archetype": "gallery",
+    "complexity": "Pro",
+    "count": 5,
+    "locale": "en",
+    "platform": "replit"
+  }
+]

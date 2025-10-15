@@ -1,0 +1,36 @@
+{
+  "cluster_diversity": {
+    "cluster_counts": {
+      "0": 9,
+      "1": 36,
+      "2": 7,
+      "3": 7,
+      "4": 9,
+      "5": 8,
+      "6": 9,
+      "7": 6,
+      "8": 2,
+      "9": 8
+    },
+    "gini": 0.3396,
+    "is_diverse": false,
+    "min_cluster_size": 2,
+    "reason": "Min cluster size 2 < required 3"
+  },
+  "shannon_diversity": {
+    "archetype_counts": {
+      "blog": 15,
+      "chat": 15,
+      "dashboard": 15,
+      "gallery": 15,
+      "guestbook": 14,
+      "notes": 14,
+      "store": 13
+    },
+    "is_diverse": true,
+    "normalized_entropy": 0.9993,
+    "shannon_entropy": 1.9446,
+    "threshold": 0.97
+  },
+  "swaps": []
+}

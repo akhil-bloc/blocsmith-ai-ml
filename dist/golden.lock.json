@@ -1,0 +1,21 @@
+{
+  "artifacts": {
+    "golden.jsonl": "f5eaab3d5f8be45d3e913e569ef241d65f91979aea1d2d20dce2700a01f73e66",
+    "test.jsonl": "e1fbd8b143a67ce78f2a957e7ec1d81afa0fba3d4ed6996acb7da4ab16d49885",
+    "train.jsonl": "536c6263ff2e353c1046a62ff124a0a2c5f68614f047ce6e505bb220e195fb92",
+    "val.jsonl": "a6ad9420fc597a32226af183922afcccedd9a8d89d883be80dd8542f3270752a"
+  },
+  "reports": {
+    "band_report.json": "33c7aaa8c61391cb6bca6adb4b8a7f00666daa4a535736afb499046d81dfb7cf",
+    "dedup_report.json": "b1a696cbcdaca888400c913c541ea3615ba9c06fce252205c4e017d424a658c4",
+    "diversity_report.json": "86f557d4e29c0b3a829f6e5af36561a33cafd91a3f20d001992be903c351ef19",
+    "top_up_trace.json": "43a409f2e68beb8eb025ac58f79f5fa35c729c3c50afba36f69a42db09505d96"
+  },
+  "schemas": {
+    "golden.final.schema.json": "165ec71a21ded4cf25895a237a0b85ac12826ccf06e170b46c5229370361a045",
+    "golden.pre_split.schema.json": "df8066792649ab3ecf9cdcbb29e69258a58c41c89c1c9bf2d76ec6da4bdfac55"
+  },
+  "splits": {
+    "splits.json": "ea358a8aa5e54d6013c3975816810dcd5c3899e8d41038b973ad78b0aeb8f7a7"
+  }
+}

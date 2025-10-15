@@ -1,0 +1,108 @@
+{
+  "band_ranges": {
+    "EXTENDED": {
+      "max": 1500,
+      "min": 601
+    },
+    "SHORT": {
+      "max": 400,
+      "min": 250
+    },
+    "STANDARD": {
+      "max": 800,
+      "min": 401
+    }
+  },
+  "distribution": {
+    "EXTENDED": 0,
+    "SHORT": 57,
+    "STANDARD": 44
+  },
+  "global_targets": {
+    "EXTENDED": {
+      "target": 14,
+      "tolerance": 7
+    },
+    "SHORT": {
+      "target": 14,
+      "tolerance": 7
+    },
+    "STANDARD": {
+      "target": 42,
+      "tolerance": 7
+    }
+  },
+  "is_valid": false,
+  "suggestions": [
+    {
+      "current_band": "SHORT",
+      "slot_id": "golden_blogMVPen_replit_rep01_seq001",
+      "suggested_band": "EXTENDED"
+    },
+    {
+      "current_band": "SHORT",
+      "slot_id": "golden_blogMVPen_replit_rep02_seq002",
+      "suggested_band": "EXTENDED"
+    },
+    {
+      "current_band": "SHORT",
+      "slot_id": "golden_blogProen_replit_rep01_seq009",
+      "suggested_band": "EXTENDED"
+    },
+    {
+      "current_band": "SHORT",
+      "slot_id": "golden_blogProen_replit_rep02_seq010",
+      "suggested_band": "EXTENDED"
+    },
+    {
+      "current_band": "SHORT",
+      "slot_id": "golden_blogProen_replit_rep03_seq011",
+      "suggested_band": "EXTENDED"
+    },
+    {
+      "current_band": "SHORT",
+      "slot_id": "golden_blogProen_replit_rep04_seq012",
+      "suggested_band": "EXTENDED"
+    },
+    {
+      "current_band": "SHORT",
+      "slot_id": "golden_blogProen_replit_rep05_seq013",
+      "suggested_band": "EXTENDED"
+    },
+    {
+      "current_band": "SHORT",
+      "slot_id": "golden_blogProen_replit_rep06_seq014",
+      "suggested_band": "EXTENDED"
+    },
+    {
+      "current_band": "SHORT",
+      "slot_id": "golden_blogProen_replit_rep07_seq015",
+      "suggested_band": "EXTENDED"
+    },
+    {
+      "current_band": "SHORT",
+      "slot_id": "golden_chatMVPen_replit_rep01_seq016",
+      "suggested_band": "EXTENDED"
+    },
+    {
+      "current_band": "SHORT",
+      "slot_id": "golden_chatMVPen_replit_rep02_seq017",
+      "suggested_band": "EXTENDED"
+    },
+    {
+      "current_band": "SHORT",
+      "slot_id": "golden_chatProen_replit_rep01_seq024",
+      "suggested_band": "EXTENDED"
+    },
+    {
+      "current_band": "SHORT",
+      "slot_id": "golden_chatProen_replit_rep02_seq025",
+      "suggested_band": "EXTENDED"
+    },
+    {
+      "current_band": "SHORT",
+      "slot_id": "golden_chatProen_replit_rep03_seq026",
+      "suggested_band": "EXTENDED"
+    }
+  ]
+}

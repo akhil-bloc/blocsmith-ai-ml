@@ -1,0 +1,187 @@
+---
+# Archetype configurations for spec generation
+blog:
+  MVP:
+    server: true
+    pages:
+      - Home
+      - Post Detail
+      - About
+    features:
+      - View posts
+      - Simple commenting
+      - Basic author profiles
+  Pro:
+    server: true
+    pages:
+      - Home
+      - Post Detail
+      - Author Profiles
+      - Categories
+      - Search
+      - Admin Dashboard
+    features:
+      - Rich text editor
+      - Categories and tags
+      - Advanced commenting
+      - Analytics
+      - User management
+
+guestbook:
+  MVP:
+    server: true
+    pages:
+      - Home
+      - Entry Form
+    features:
+      - View entries
+      - Add new entry
+      - Basic moderation
+  Pro:
+    server: true
+    pages:
+      - Home
+      - Entry Form
+      - User Profiles
+      - Admin Panel
+    features:
+      - Rich media entries
+      - User accounts
+      - Advanced moderation
+      - Entry search
+      - Notifications
+
+chat:
+  MVP:
+    server: true
+    pages:
+      - Chat Room
+      - Login
+    features:
+      - Real-time messaging
+      - User presence
+      - Basic user profiles
+  Pro:
+    server: true
+    pages:
+      - Chat Rooms
+      - Direct Messages
+      - User Profiles
+      - Settings
+      - Admin Panel
+    features:
+      - Multiple chat rooms
+      - Direct messaging
+      - Media sharing
+      - Message search
+      - User management
+
+notes:
+  MVP:
+    server: false
+    pages:
+      - Notes List
+      - Note Editor
+    features:
+      - Create notes
+      - Edit notes
+      - Delete notes
+      - Local storage
+  Pro:
+    server: true
+    pages:
+      - Notes List
+      - Note Editor
+      - Categories
+      - Settings
+      - Sync Status
+    features:
+      - Rich text formatting
+      - Categories and tags
+      - Cloud sync
+      - Search
+      - Export/import
+
+dashboard:
+  MVP:
+    server: true
+    pages:
+      - Overview
+      - Data View
+      - Settings
+    features:
+      - Data visualization
+      - Basic filters
+      - Simple settings
+  Pro:
+    server: true
+    pages:
+      - Overview
+      - Detailed Analytics
+      - Reports
+      - User Management
+      - System Settings
+    features:
+      - Advanced visualizations
+      - Custom reports
+      - Data export
+      - User roles
+      - API integration
+
+store:
+  MVP:
+    server: true
+    pages:
+      - Product List
+      - Product Detail
+      - Cart
+      - Checkout
+    features:
+      - Browse products
+      - Add to cart
+      - Simple checkout
+      - Order confirmation
+  Pro:
+    server: true
+    pages:
+      - Home
+      - Product Categories
+      - Product Detail
+      - Cart
+      - Checkout
+      - User Account
+      - Order History
+      - Admin Dashboard
+    features:
+      - Product search and filters
+      - User accounts
+      - Payment processing
+      - Order tracking
+      - Inventory management
+      - Analytics
+
+gallery:
+  MVP:
+    server: false
+    pages:
+      - Gallery Grid
+      - Image View
+    features:
+      - Image display
+      - Basic navigation
+      - Simple filtering
+  Pro:
+    server: true
+    pages:
+      - Gallery Grid
+      - Image Detail
+      - Collections
+      - Upload
+      - User Profile
+      - Admin Panel
+    features:
+      - User accounts
+      - Image uploads
+      - Collections
+      - Search and filters
+      - Social sharing

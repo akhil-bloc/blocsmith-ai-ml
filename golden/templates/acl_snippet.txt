@@ -1,0 +1,12 @@
+### Access Control
+
+**Roles and Permissions:**
+
+- **Member**:
+  - `read:self`: Can read their own data
+  - `write:self`: Can create and update their own data
+
+- **Admin**:
+  - `read:any`: Can read any user's data
+  - `write:any`: Can create and update any data
+  - `manage`: Can manage system settings and user accounts
